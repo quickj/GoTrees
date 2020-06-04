@@ -1,4 +1,4 @@
-ckage tree // import "golang.org/x/tour/tree"
+package tree // import "golang.org/x/tour/tree"
 
 import (
   "fmt"
